@@ -1,6 +1,6 @@
 <h1 align="center">The React Quiz <br /></h1>  
 <p align="center">
-  <img src="https://github.com/collinskchirchir/react-quiz/public/images/git-proj-banner.png" alt="react-quiz" width="500" >
+  <img src="https://github.com/collinskchirchir/react-quiz/blob/main/public/images/git-proj-banner.png" alt="react-quiz" width="500" >
 </p>
 
 # Side Project
