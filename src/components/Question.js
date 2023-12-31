@@ -1,11 +1,10 @@
-import Options from "./Options"
+import Options from "./Options";
 
 export default function Question({ question, answer, dispatch }) {
-   console.log(question)
-   return (
-      <div>
-         <h4>{question.question}</h4>
-         <Options question={question} dispatch={dispatch} answer={answer} />
-      </div>
-   )
+  return (
+    <div>
+      <h4>{question.question}</h4>
+      <Options question={question} dispatch={dispatch} answer={answer} />
+    </div>
+  );
 }
