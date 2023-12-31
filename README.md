@@ -38,7 +38,7 @@ answered or when the timer runs out.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/the-react-quiz.git
+   git clone https://github.com/collinskchirchir/the-react-quiz.git
 2. Install dependencies:
 
     ```bash
